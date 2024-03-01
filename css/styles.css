@@ -53,3 +53,11 @@ body {
 .elise-level {
 	border-color: darkolivegreen !important;
 }
+
+.fw-bolder {
+	color: white;
+}
+
+.fst-italic {
+	color: white
+}
